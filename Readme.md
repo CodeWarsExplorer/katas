@@ -4,4 +4,4 @@
 4. https://www.codewars.com/kata/5364244c9c51d58a7700094e
 
 
-https://codepen.io/buz-zard/pen/ewLBWN
+https://codepen.io/buz-zard/pen/EBeNVV
